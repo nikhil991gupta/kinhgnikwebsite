@@ -1,2 +1,2 @@
-#Basic personal info website
+#Basic info website
 # Using HTML, CSS, JAVASCRIPT
